@@ -1,15 +1,15 @@
 {
-  "bundleSize": 1578358,
+  "arch": "x64",
+  "buildTimestamp": "2026-08-02T08:17:56.289Z",
+  "bundleSize": 1585450,
   "bundleSizeMB": "1.51",
-  "integrity": "4c8ce1ff0ac6ea375896ceb76885e031bc3d882684cffb8e451a322c500f3efb",
-  "buildTimestamp": "2026-02-18T23:29:59.199Z",
-  "version": "0.7.7",
-  "nodeVersion": "v20.20.0",
-  "sourcemap": true,
-  "minified": true,
-  "treeshaken": true,
   "format": "es",
-  "target": "node20",
+  "integrity": "ec4cf3a907b22f428e245a16cff6b4ffe42ea577279f781fc19ed3c7f3e8d1f2",
+  "minified": true,
+  "nodeVersion": "v22.23.1",
   "platform": "linux",
-  "arch": "x64"
+  "sourcemap": true,
+  "target": "node20",
+  "treeshaken": true,
+  "version": "0.7.23"
 }
