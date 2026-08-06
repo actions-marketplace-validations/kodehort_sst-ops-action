@@ -1,6 +1,6 @@
 {
   "name": "sst-operations-action",
-  "version": "0.7.27",
+  "version": "0.7.29",
   "description": "A unified GitHub Action for SST operations: deploy, diff, and remove",
   "keywords": [
     "github-actions",
@@ -46,7 +46,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.6",
+    "@biomejs/biome": "2.5.7",
     "@rollup/plugin-commonjs": "^29.0.0",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^16.0.3",
@@ -62,7 +62,7 @@
     "js-yaml": "^5.0.0",
     "rollup": "^4.57.1",
     "typescript": "^5.9.3",
-    "ultracite": "7.10.0",
+    "ultracite": "7.10.1",
     "vitest": "^4.0.18",
     "yaml": "^2.8.2"
   },
